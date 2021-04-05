@@ -6,7 +6,7 @@ import scala.math.pow
  * 1/(1-x)
  */
 
-object Taylor7 {
+object Taylor7A {
   def apply(x: Double): Double = {
     //step 1: 4 members
     // f(0) = 1/(1-a) = 1
