@@ -1,6 +1,6 @@
 name := "taylor-git-test"
 
-version := "1.0.1"
+version := "1.0.2"
 
 scalaVersion := "2.13.5"
 
