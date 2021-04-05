@@ -1,7 +1,7 @@
 package com.pin.taylorgit
 
 object TaylorTest extends App {
-  val x: Double = -0.5
+  val x: Double = 0.5
 
   val y = 1/(1-x)
   val y_taylor = Taylor7.apply(x, 5)
